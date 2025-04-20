@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badboy3110&label=Profile%20views&color=0e75b6&style=flat" alt="badboy3110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VedantPatil3110&label=Profile%20views&color=0e75b6&style=flat" alt="VedantPatil3110" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badboy3110" alt="badboy3110" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VedantPatil3110" alt="VedantPatil3110" /></a> </p>
 
 - 🌱 I’m currently learning **Dsa,Frontend**
 
