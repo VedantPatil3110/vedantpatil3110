@@ -3,23 +3,31 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VedantPatil3110&label=Profile%20views&color=0e75b6&style=flat" alt="VedantPatil3110" />
+  <img
+    src="https://komarev.com/ghpvc/?username=VedantPatil3110&label=Profile%20views&color=0e75b6&style=flat"
+    alt="VedantPatil3110"
+  />
 </p>
 
-<p align="left">
+<!-- GitHub Trophies -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=VedantPatil3110&theme=flat&column=6&margin-w=15&margin-h=15"
+      src="https://github-profile-trophy-liard-delta.vercel.app/?username=VedantPatil3110&theme=flat&column=6&margin-w=15&margin-h=15"
       alt="GitHub Trophies"
     />
   </a>
 </p>
+
+<!-- About Me -->
 
 - 🌱 I’m currently learning **DSA, Frontend, Spring Boot and Backend Development**
 
 - 📫 How to reach me **vedantpatil3110@gmail.com**
 
 - ⚡ Fun fact **I am a Human**
+
+<!-- Connect -->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -76,6 +84,8 @@
 </a>
 
 </p>
+
+<!-- Languages and Tools -->
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -147,7 +157,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
-    alt="Spring"
+    alt="Spring Boot"
     width="40"
     height="40"
   />
@@ -155,29 +165,28 @@
 
 </p>
 
-<br>
+<!-- GitHub Stats -->
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
+<p align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantPatil3110&layout=compact&langs_count=8"
+    src="https://github-stats-mu-nine.vercel.app/api/top-langs?username=VedantPatil3110&layout=compact&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
-<p>
+<p align="center">
   <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=VedantPatil3110&show_icons=true&locale=en"
+    src="https://github-stats-mu-nine.vercel.app/api?username=VedantPatil3110&show_icons=true&locale=en"
     alt="GitHub Stats"
   />
 </p>
 
-<p>
+<!-- GitHub Streak -->
+
+<p align="center">
   <img
-    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=VedantPatil3110"
     alt="GitHub Streak"
   />
