@@ -10,14 +10,14 @@
 </p>
 
 <!-- GitHub Trophies -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy-liard-delta.vercel.app/?username=VedantPatil3110&theme=flat&column=6&margin-w=15&margin-h=15"
       alt="GitHub Trophies"
     />
   </a>
-</p>
+</p> -->
 
 <!-- About Me -->
 
